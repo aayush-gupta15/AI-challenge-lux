@@ -11,7 +11,7 @@ Steps to run application
   2. docker run -v [Your test path]:/test aayush1597/luxdl (e.g. docker run -v D:\test:/test aayush1597/luxdl)
 4. Add image to test folder
 5. Machine will reply if image is apple or not
-6. ![alt text](https://github.com/aayush-gupta15/AI-challenge-lux/blob/[branch]/temp.JPG?raw=true)
+6. ![Image source](https://github.com/aayush-gupta15/AI-challenge-lux/blob/main/blob/temp.JPG?raw=true)
 
 # Owner
 Aayush Gupta
