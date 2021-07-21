@@ -7,8 +7,8 @@ Steps to run application
 1. Docker must be installed in the system
 2. Create folder test in your local repository e.g. (windows - D:/test) or (ubuntu - /user/test)
 3. run the following commands on terminal
-  1. docker pull aayush1597/luxdl
-  2. docker run -v [Your test path]:/test aayush1597/luxdl (e.g. docker run -v D:\test:/test aayush1597/luxdl)
+    1. docker pull aayush1597/luxdl
+    2. docker run -v [Your test path]:/test aayush1597/luxdl (e.g. docker run -v D:\test:/test aayush1597/luxdl)
 4. Add image to test folder
 5. Machine will reply if image is apple or not
 6. ![Image source](https://github.com/aayush-gupta15/AI-challenge-lux/blob/main/blob/temp.JPG?raw=true)
